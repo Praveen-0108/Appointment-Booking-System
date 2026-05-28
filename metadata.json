@@ -1,0 +1,6 @@
+{
+  "name": "Appointment Booking System",
+  "description": "An interactive, high-fidelity mobile app UI for an appointment booking system including onboarding, specialist selection, time slot calendar booking, and confirmation screens, coupled with an interactive UX design rationale panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
